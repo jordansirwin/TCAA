@@ -14,13 +14,9 @@ module.exports = function(grunt) {
     },
     watch: {
       scripts: {
-        files: ["**/*.html"],
+        files: ["../**/*.html"],
         tasks: ["reload"]
       }
-      ,all: {
-      options: { livereload: true },
-      files: ['**/*.html']
-    },
     }
   });
 
