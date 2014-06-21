@@ -3,3 +3,6 @@
 
 # .DS_Store
 .DS_Store
+
+# html files, since they are generated from Markdown
+*.html
