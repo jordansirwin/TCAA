@@ -1,0 +1,2 @@
+# exclude grunt
+/grunt/node_modules/
