@@ -15,6 +15,6 @@ A roleplaying campaign outline containing ideas and guidelines for adventures th
 
 ### Technical Notes
 
-* All files are written using Markdown (file extension .md). While they can be opened and ready in any text editor, any Markdown compiler should be able to generate HTML from best reading.
+* All files are written using Markdown (file extension .md). While they can be opened and read in any text editor, any Markdown compiler should be able to generate HTML from best reading.
 
 * All quests are located in: /src/quests.
