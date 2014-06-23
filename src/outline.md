@@ -20,7 +20,7 @@ Quest Concepts
 
 * A neighboring castle is under seige! The players must help command and defend the keep through tactical warface, seige weapons, establishing defenses, and perhaps even getting their own hands a little dirty.
 
-* A recent haunting has the locals in an uproar. They've prepared pitches and shovels to take on whatever lies inside the old mansion, but you've heard that what's inside isn't exactly what meets the eye: An child apprentice wizard having some fun! See: [Haunted House: 4 Tips To Terrify Your Players][1]
+* A recent haunting has the locals in an uproar. They've prepared pitches and shovels to take on whatever lies inside the old mansion, but you've heard that what's inside isn't exactly what meets the eye: A monsterous beast that would easily dispatch any of the locals. After a good scare and a spooky series of events, the party will unfold a child apprentice wizard having some fun! See: [Haunted House: 4 Tips To Terrify Your Players][1]
 
 * The locals talk about a crazy old man living in the mountains, always experiementing with some new machine that can move without magic. Earlier today, some kids ran into the tavern claiming they saw him flying away in a buggy with huge bags attached to it's roof, but didn't make it high enough before he crashed into the side of a mountain.
 
@@ -30,6 +30,7 @@ Quest Concepts
 
   Ideas: Flood for naval combat, beast fights, chain party together for combat, poisonous "first hit wins", mazes, stack objects to reach tall object
 
+* A wealthy family is willing to reward anyone who can make their not-so-appealing daughter fall in love with a young man from a neighboring wealthly family. It's a "good match" for everyone, but the daughter hasn't caught the eyes of the gentlemen- yet!
 
 
 
