@@ -1,7 +1,8 @@
 Tidings Come, Adventure Awaits
-------------------------------
+==============================
+"TCAW", pronounced "ta-cow"
 
-A roleplaying campaign outline containing ideas and guidelines for adventures that can be autonomous "One Shots" or a long-running series leading the players into nearly any imaginable situation.
+Tidings Come, Adventure Awaits is a roleplaying campaign outline containing ideas and guidelines for adventures that can be autonomous "One Shots" or a long-running series leading the players into nearly any imaginable situation.
 
 
 ### Goals
