@@ -6,8 +6,11 @@ _(I'm looking at you, PLAYERS!)_
 ### README
 
 * Adventure Level: Low
+
 * Prerequisites: None
+
 * _[Difficulty]_ tags ranging from Easy, Medium, Hard, and Epic are guidelines to help you assign appropriate challenge ratings given the game system you choose.
+
 * Information without _[Difficulty]_ tags should not be shared with players under normal circumstances.
 
 
@@ -63,16 +66,25 @@ After taking it all in, you focus again on the local area and notice a small cro
 
 ### Manor Information
 
-_[Information Difficulty: Easy]_  
-The manor belongs to the Hurells' _(her-el)_- a well respected and wealthy family established many generations ago during the founding of the town. The Hurell family had always been a staple name in local government and important dealings, until recently. Recent Hurell generations have seen a remarkable decline in prosperity and hiers. A complete lack of social involvement for years has escalated rumors that there simply is noone left to carry the name. 
+_[Information Difficulty: Easy]_
+
+* The manor belongs to the Hurells' _(her-el)_- a well respected and wealthy family established many generations ago during the founding of the town. The Hurell family had always been a staple name in local government and important dealings, until recently. 
+
+* Recent Hurell generations have seen a remarkable decline in prosperity and hiers. A complete lack of social involvement for years has escalated rumors that there simply is noone left to carry the name. 
 
 
-_[Information Difficulty: Medium]_  
-The last Hurell reported to be seen was Enbar _(in-bar)_ Hurell, and that was well over a year ago. Enbar was the only surviving son of Hoff _(hof)_ Hurell, the last adult Hurell known to be alive. Hoff was wed to his cousin, Elyssa _(E-lie-sa)_, and fathered 9 children. Sadly, only Enbar survived birth, but not without tragedy as the trauma took Elyssa's life. 
+_[Information Difficulty: Medium]_
+
+* The last Hurell reported to be seen was Enbar _(in-bar)_ Hurell, and that was well over a year ago.
+
+* Enbar was the only surviving son of Hoff _(hof)_ Hurell, the last adult Hurell known to be alive. 
+
+* Hoff Hurell was wed to his cousin, Elyssa _(E-lie-sa)_, and fathered 9 children. Sadly, only Enbar survived birth, but not without tragedy as the trauma took Elyssa's life. 
 
 
-_[Information Difficulty: Hard]_  
-It's long been whispered that the Hurell's were cursed to slowly disappear from the world- and there's been ample evidence to suggest this is fact.
+_[Information Difficulty: Hard]_
+
+* It's long been whispered that the Hurell's were cursed to slowly disappear from the world- and there's been ample evidence to suggest this is fact.
 
 
 
