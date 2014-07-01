@@ -1,19 +1,25 @@
-This is an adventure module for _Tidings Come, Adventure Awaits_.  
+This is an adventure module for _Tidings Come, Adventure Awaits_.
+
+
+
+### README
 
 **WARNING: You should not be reading this if you don't want spoilers!**  
 _(I'm looking at you, PLAYERS!)_
 
-### README
+_[Difficulty]_ tags ranging from Easy, Medium, Hard, and Epic are guidelines to help you assign appropriate challenge ratings given the game system you choose.
 
-* Adventure Level: Low
-* Prerequisites: None
-* _[Difficulty]_ tags ranging from Easy, Medium, Hard, and Epic are guidelines to help you assign appropriate challenge ratings given the game system you choose.
-* Information without _[Difficulty]_ tags should not be shared with players under normal circumstances.
+Information without _[Difficulty]_ tags should not be shared with players under normal circumstances.
 
 
 
 Hurell Haunting
 ---------------
+
+**Adventure Level:** Low  
+**Prerequisites:** None  
+
+
 
 ### Outline
 
@@ -30,7 +36,7 @@ Hurell Haunting
 In addition to reading through the adventure, the following preparations should be made ahead of time:
 
 * Choose a name for the town being haunted.
-* Determine an Adventure Hook to get the players started.
+* Determine an Adventure Hook to get the players started. Some ideas are provided for you below.
 
 
 
@@ -38,9 +44,11 @@ In addition to reading through the adventure, the following preparations should 
 
 The players can aquire this adventure in various ways:
 
-* As the following posting on a "job board" or other common place for work to be obtained:
-
+* The following posting on a "job board" or other common place for work to be obtained:
   > Help needed! Our town is being harrassed by ghosts! An old house is the cause of the haunting, and it's time we put and end to it. REWARD!
+* The players can already be in the town, and simply notice the crowd forming (read the prologue).
+* The speech given in the prologue could happen at any time, in any town. This could be how the players learn about the haunting.
+
 
 
 ### Prologue
@@ -51,10 +59,19 @@ The town is small, perhaps a thousand people live in and around it. But even for
 
 The main road ends directly at its gates, and these gates appear to fully surround the small hill that holds the aged home. It's not a home of incredible size- 2 stories, perhaps 7-8 rooms- but it's certainly larger than most buildings in town, though. The hill itself isn't massive either, maybe elevating the house 30 feet from the town's normal. There doesn't appear to be any attention to the estate, as overgrowth on the gates, hill, and house is evident. Even while not the most impressive site, it's certainly the standout in this town.
 
-After taking it all in, you focus again on the local area and notice a small crowd outside a nearby building, perhaps aptly named "The Grey Above".
+After taking it all in, you focus again on the local area and notice a small crowd outside a nearby building, perhaps aptly named "The Grey Above", that appears to be a tavern of sort.
 
 
-**TODO: What is crowd doing?**
+#### The Grey Above (Crowd Outside)
+
+Just outside the entrance to _The Grey Above_, an excited crowd of townsfolk are gathering en mass. The center of attention appears to be an elder man, perhaps in his last years of a long life, standing on a crate. The crowd seems to grow in size and energy the more the old man addresses it.
+
+_[When the players are close enough to hear]_  
+  > _(Voice: An old man with a cranky, shaky voice)_  
+  That old house is useless I tell ya! I've lived longer than most here, and it was old even when I was young. (coughs as if his lungs are giving up) Back in those days, we would have torched it if we could, but that family had so much power (thinking back, deep and long)... they would have... they did (pauses...)... it would have never worked... It didn't work. But now! Now they are no more! (getting excited) Now we have the power... they are all gone... (under his breath) dead from that curse... (loud again) We need to burn it down while we can! 
+
+After his speech- many in the crowd cheer, some nod in agreement, others- mostly younger folk- seem unconvinced.
+
 
 
 ### Manor Information
@@ -78,6 +95,30 @@ _[Information Difficulty: Hard]_
 
 
 
-###
+### Exterior Description
 
-**Exterior**
+
+#### TODO: Describe the hill, overgrowth, and paths to the manor.
+
+
+
+### Interior Description
+
+_Unless otherwise noted, here are some common features:_  
+**Ceilings:**
+**Doors:**
+**Floors:**
+**Illumination:**
+**Walls:**
+**Windows:**
+
+
+
+### Haunt Ideas
+
+* Moving objects around
+* Random sounds and loud crashes
+* Blood writing on the wall, in real-time but noone writing it
+* Piano/Organ music playing
+* Hear voices talking
+* Animals/pets start acting strange
