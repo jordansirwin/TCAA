@@ -1,4 +1,4 @@
-_"TCAW" (pronounced "ta-kaw"), is an abbreviation for:_
+_"TCAA" (pronounced "tee-ka"), is an abbreviation for:_
 
 Tidings Come, Adventure Awaits
 ==============================
@@ -6,7 +6,7 @@ Tidings Come, Adventure Awaits
 
 _Tidings Come, Adventure Awaits_ is a roleplaying campaign outline filled with adventures that can be autonomous "One Shots" or a long-running series leading the players into nearly any imaginable situation. 
 
-TCAW is nothing more than ideas and guidelines that you may incorporate into your own stories, use "as is" for a quick game session, or link together to create your own "TCAW Campaign".
+TCAA is nothing more than ideas and guidelines that you may incorporate into your own stories, use "as is" for a quick game session, or link together to create your own "TCAA Campaign".
 
 
 
@@ -25,7 +25,7 @@ TCAW is nothing more than ideas and guidelines that you may incorporate into you
 If you are looking for a fully-fledged campaign outline:  
 src\campaigns\
 
-If you just want to checkout the TCAW Adventures:  
+If you just want to checkout the TCAA Adventures:  
 src\adventures\
 
 
