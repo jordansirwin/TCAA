@@ -99,7 +99,7 @@ The town itself isn't really of any special nature. Feel free to layout the town
 * Feel free to add additional features to fit your campaign.
 
 
-** Additional Information **
+**Additional Information**
 
 _If the players ask around for information, the following may be learned based on relevant skill checks_.  
 
@@ -140,7 +140,7 @@ _[Climb Fence, Difficulty: Hard]_
 Attempting to climb the fence is not an easy feat. If a player fails to climb the fence, they should take damage based on how much they failed. Don't be shy here, this fence was designed to keep people out!
 
 
-** Other Notes **
+**Other Notes**
 
 * The fence completely surrounds the property, leaving the gate as the only planned entrance.
 
@@ -149,7 +149,7 @@ Attempting to climb the fence is not an easy feat. If a player fails to climb th
 
 TODO: Describe the hill, overgrowth, and paths to the manor.
 
-** Interior **
+**Interior**
 
 _Unless otherwise noted, here are some common features:_  
 **Ceilings:**
