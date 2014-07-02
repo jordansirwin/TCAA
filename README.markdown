@@ -23,10 +23,10 @@ TCAA is nothing more than ideas and guidelines that you may incorporate into you
 ### Getting Started
 
 If you are looking for a fully-fledged campaign outline:  
-src\campaigns\
+campaigns\
 
 If you just want to checkout the TCAA Adventures:  
-src\adventures\
+adventures\
 
 
 
